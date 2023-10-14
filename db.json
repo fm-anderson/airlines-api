@@ -1255,6 +1255,245 @@
         ]
       }
     ],
-    "hotels": []
+    "hotels": [
+      {
+        "name": "Marriott",
+        "website": "https://www.marriott.com/",
+        "program": "Marriott Bonvoy",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Hilton",
+        "website": "https://www.hilton.com/",
+        "program": "Hilton Honors",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 2000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Hyatt",
+        "website": "https://www.hyatt.com/",
+        "program": "World of Hyatt",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          }
+        ]
+      },
+      {
+        "name": "IHG Hotels & Resorts",
+        "website": "https://www.ihg.com/hotels/",
+        "program": "IHG One Rewards",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          }
+        ]
+      },
+      {
+        "name": "Wyndham Hotels & Resorts",
+        "website": "https://www.wyndhamhotels.com/",
+        "program": "IHG One Rewards",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Choice Hotels",
+        "website": "https://www.choicehotels.com/",
+        "program": "Choice Privileges Rewards",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 2000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Accor",
+        "website": "https://all.accor.com/",
+        "program": "Accor Live Limitless",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 500
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 500
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      }
+    ]
   }
 }
