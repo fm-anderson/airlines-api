@@ -1,0 +1,444 @@
+{
+  "alliances": {
+    "star-alliance": [
+      {
+        "name": "United Airlines",
+        "website": "https://www.united.com/",
+        "program": "MileagePlus",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          }
+        ]
+      },
+      {
+        "name": "Air Canada",
+        "website": "https://www.aircanada.com/",
+        "program": "Aeroplan",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          }
+        ]
+      },
+      {
+        "name": "All Nippon Airways",
+        "website": "https://www.ana.co.jp/",
+        "program": "ANA Mileage Club",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Avianca",
+        "website": "https://www.avianca.com/",
+        "program": "LifeMiles",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Singapore Airlines",
+        "website": "https://www.singaporeair.com/",
+        "program": "KrisFlyer",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Chase",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Eva Air",
+        "website": "https://www.evaair.com/",
+        "program": "Infinity MileageLands",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 750
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Thai Airways",
+        "website": "https://www.thaiairways.com/",
+        "program": "Royal Orchid Plus",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": null
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "TAP Air Portugal",
+        "website": "https://www.flytap.com/",
+        "program": "TAP Miles&Go",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": null
+          },
+          {
+            "name": "Bilt",
+            "ratio": null
+          }
+        ]
+      },
+      {
+        "name": "Turkish Airlines",
+        "website": "https://www.turkishairlines.com/",
+        "program": "Miles&Smiles",
+        "logo": "https://URL",
+        "transfer-partners": [
+          {
+            "name": "American Express",
+            "ratio": null
+          },
+          {
+            "name": "Chase",
+            "ratio": null
+          },
+          {
+            "name": "Capital One",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Citi",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          },
+          {
+            "name": "Bilt",
+            "ratio": {
+              "pointsToMiles": 1000,
+              "milesToPoints": 1000
+            }
+          }
+        ]
+      },
+      {
+        "name": "Austrian Airlines",
+        "website": "https://www.austrian.com/",
+        "program": "Miles & More",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Brussels Airlines",
+        "website": "https://www.brusselsairlines.com/",
+        "program": "Miles & More",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Croatia Airlines",
+        "website": "https://www.croatiaairlines.com/",
+        "program": "Miles & More",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Polish Airlines",
+        "website": "https://www.lot.com/",
+        "program": "Miles & More",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Lufthansa",
+        "website": "https://www.lufthansa.com/",
+        "program": "Miles & More",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Swiss Airlines",
+        "website": "https://www.swiss.com/",
+        "program": "Miles & More",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Aegean Airlines",
+        "website": "https://en.aegeanair.com/",
+        "program": "Miles+Bonus",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Air China",
+        "website": "http://www.airchina.com/",
+        "program": "PhoenixMiles",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Shenzhen Airlines",
+        "website": "https://global.shenzhenair.com/",
+        "program": "PhoenixMiles",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Air India",
+        "website": "https://www.airindia.com/",
+        "program": "Flying Returns",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Air New Zealand",
+        "website": "https://www.airnewzealand.com/",
+        "program": "Airpoints",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Asiana Airlines",
+        "website": "https://flyasiana.com/",
+        "program": "Asiana Club",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "CopaAirlines",
+        "website": "https://flyasiana.com/",
+        "program": "ConnectMiles",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "EgyptAir",
+        "website": "https://www.egyptair.com/",
+        "program": "EGYPTAIR Plus",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Ethiopian Airlines",
+        "website": "https://www.ethiopianairlines.com/",
+        "program": "ShebaMiles",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "Scandinavian Airlines",
+        "website": "https://www.flysas.com/",
+        "program": "EuroBonus",
+        "logo": "https://URL",
+        "transfer-partners": null
+      },
+      {
+        "name": "South African Airways",
+        "website": "https://www.flysaa.com/",
+        "program": "SAA Voyager",
+        "logo": "https://URL",
+        "transfer-partners": null
+      }
+    ],
+    "one world": [],
+    "sky team": [],
+    "independent airlines": [],
+    "hotels": []
+  }
+}
