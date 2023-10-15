@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/airlines-api.git
+   git clone https://github.com/fm-anderson/airlines-api.git
    cd airlines-api
    ```
 
@@ -38,16 +38,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## API Endpoints
 
-GET /alliances: Retrieves a list of all alliances.
+`GET /alliances` Retrieves a list of all alliances.
 
-GET /alliances/:alliance: Retrieves details of a specific alliance.
+`GET /alliances/:alliance` Retrieves details of a specific alliance.
 
-GET /alliances/:alliance/airlines/:airline: Retrieves details of a specific airline within an alliance.
+`GET /alliances/:alliance/airlines/:airline` Retrieves details of a specific airline within an alliance.
 
-GET /airlines: Retrieves details of all airlines, annotated with their respective alliances.
-
-Example Requests
-To fetch details about the "one world" alliance:
+`GET /airlines` Retrieves details of all airlines, annotated with their respective alliances.
 
 ### Example Requests
 
