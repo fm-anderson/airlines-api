@@ -4,8 +4,13 @@ GEM
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
     rack (2.2.8)
+    rack-cors (2.0.1)
+      rack (>= 2.0.0)
     rack-protection (3.1.0)
       rack (~> 2.2, >= 2.2.4)
+    rack-throttle (0.7.1)
+      bundler (>= 1.0.0)
+      rack (>= 1.0.0)
     ruby2_keywords (0.0.5)
     sinatra (3.1.0)
       mustermann (~> 3.0)
@@ -19,6 +24,8 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  rack-cors
+  rack-throttle
   sinatra
   webrick
 
