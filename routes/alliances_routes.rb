@@ -36,3 +36,8 @@ get '/alliances/:alliance/airlines/:airline' do
     { error: "Airline not found in the #{params['alliance']} alliance" }.to_json
   end
 end
+
+get '/airlines' do
+    content_type :json
+    Alliance.all_airlines_with_alliance.to_json
+end

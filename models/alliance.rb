@@ -3,6 +3,19 @@ require 'json'
 class Alliance
     @data = JSON.parse(File.read('db.json'))
 
+    def self.all_airlines_with_alliance
+        all_airlines = []
+        
+        @data['alliances'].each do |alliance_name, airlines|
+          airlines.each do |airline|
+            airline_with_alliance = airline.merge({ 'alliance' => alliance_name })
+            all_airlines << airline_with_alliance
+          end
+        end
+        
+        all_airlines
+    end
+
     def self.find_alliance(name)
         formatted_name = name.gsub('-', ' ')
         @data['alliances'][formatted_name]
