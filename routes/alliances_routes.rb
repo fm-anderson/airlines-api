@@ -13,16 +13,17 @@ get '/alliances' do
 end
   
 get '/alliances/:alliance' do
-  content_type :json
-  alliance_data = Alliance.find(params['alliance'])
+    content_type :json
+    alliance_name = params['alliance']
+    alliance_data = Alliance.find_alliance(alliance_name)
   
-  if alliance_data
-    alliance_data.to_json
-  else
-    status 404
-    { error: "Alliance not found" }.to_json
+    if alliance_data
+      alliance_data.to_json
+    else
+      status 404
+      { error: "Alliance not found" }.to_json
+    end
   end
-end
   
 get '/alliances/:alliance/airlines/:airline' do
   content_type :json

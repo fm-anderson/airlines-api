@@ -3,6 +3,11 @@ require 'json'
 class Alliance
     @data = JSON.parse(File.read('db.json'))
 
+    def self.find_alliance(name)
+        formatted_name = name.gsub('-', ' ')
+        @data['alliances'][formatted_name]
+    end
+
     def self.all
       @data['alliances'].keys
     end
