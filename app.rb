@@ -16,4 +16,5 @@ use Rack::Throttle::Daily,       :max => 1000
 
 configure do
   set :server, :webrick
+  set :bind, '0.0.0.0'
 end
