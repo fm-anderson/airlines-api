@@ -4,6 +4,8 @@
 
 A simple Sinatra API that provides data on various airlines, and their alliances, allowing users to retrieve information related to US bank transfer partners, specific airlines within those alliances, and details about each airline.
 
+**GET all transfer partners** → https://transferpartners.up.railway.app/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
