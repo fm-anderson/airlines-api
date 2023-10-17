@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- Ruby (version 3.2.2 or any compatible version)
+- Ruby (version 3.2.2)
 - Bundler
 
 ### Installing
@@ -20,8 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/fm-anderson/airlines-api.git
-   cd airlines-api
+   git clone https://github.com/fm-anderson/transfer-partners-api.git
+   cd transfer-partners-api
    ```
 
 2. **Install Dependencies**
