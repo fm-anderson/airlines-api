@@ -21,16 +21,20 @@ These instructions will get you a copy of the project up and running on your loc
 
    ```sh
    git clone https://github.com/fm-anderson/transfer-partners-api.git
+   ```
+2. **Navigate to the project directory**
+
+   ```sh
    cd transfer-partners-api
    ```
 
-2. **Install Dependencies**
+3. **Install Dependencies**
 
    ```sh
    bundle install
    ```
 
-3. **Run the API Locally**
+4. **Run the API Locally**
 
    ```sh
    bundle exec ruby app.rb
